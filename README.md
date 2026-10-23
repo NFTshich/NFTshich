@@ -16,6 +16,8 @@
 
 - **Gold Parser** — инструмент оценки лотов с драгметаллами → [gold-parser-landing](https://nftshich.github.io/gold-parser-landing/) · [репозиторий](https://github.com/NFTshich/gold-parser-landing)
 - **Landing pages** — набор продающих лендингов → [landing-pages](https://github.com/NFTshich/landing-pages)
+- **Презентации** — готовые презентации PPTX для бизнеса → [presentations](https://github.com/NFTshich/presentations)
+- **Интеллект-карты** — интерактивные mind maps (HTML) → [mind-maps](https://github.com/NFTshich/mind-maps)
 
 ## 🤝 Связь
 

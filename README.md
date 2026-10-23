@@ -33,6 +33,16 @@
 Интерактивные mind maps (HTML), открываются в браузере.
 → [демо](https://nftshich.github.io/mind-maps/) · [репозиторий](https://github.com/NFTshich/mind-maps)
 
+### CS2 Analyzer
+Аналитический инструмент для Counter-Strike 2: сбор матчей с Liquipedia,
+фиче-инжиниринг, ML-модель для предсказания победителя, Streamlit UI.
+→ [репозиторий](https://github.com/NFTshich/cs2-analyzer)
+
+### Dota2 Analyzer
+Аналитический инструмент для Dota 2: реальные матчи про-сцены, ELO-рейтинги,
+ансамбль ML-моделей, Streamlit UI.
+→ [репозиторий](https://github.com/NFTshich/dota2-analyzer)
+
 ## 🤝 Связь
 
 Открыт к заказам на сайты, презентации и автоматизацию.

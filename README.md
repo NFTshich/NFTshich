@@ -65,4 +65,5 @@
 ## 🤝 Связь
 
 Открыт к заказам и обсуждению проектов.
+- **Kwork:** [kwork.ru/user/nftshich](https://kwork.ru/user/nftshich)
 - **Telegram:** [t.me/NFTshich](https://t.me/NFTshich)

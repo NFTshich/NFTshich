@@ -14,8 +14,10 @@
 
 ## 📂 Проекты
 
-Репозитории с готовыми работами появляются здесь по мере публикации.
+- **Gold Parser** — инструмент оценки лотов с драгметаллами → [gold-parser-landing](https://nftshich.github.io/gold-parser-landing/) · [репозиторий](https://github.com/NFTshich/gold-parser-landing)
+- **Landing pages** — набор продающих лендингов → [landing-pages](https://github.com/NFTshich/landing-pages)
 
 ## 🤝 Связь
 
 Открыт к заказам на сайты, презентации и автоматизацию.
+- **Telegram:** [t.me/NFTshich](https://t.me/NFTshich)

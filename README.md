@@ -47,6 +47,10 @@
 цены ЦБ, мониторинг объявлений, расчёт маржи. Код в продаже по договору.
 → [живая визитка](https://nftshich.github.io/gold-parser-landing/) · [репозиторий](https://github.com/NFTshich/gold-parser-landing)
 
+**Portfolio Examples** — готовые шаблоны работы с данными в Excel:
+юнит-экономика для маркетплейсов и проверка ОСВ из 1С (демо-данные).
+→ [репозиторий](https://github.com/NFTshich/portfolio-examples)
+
 ---
 
 ## 🛠 Услуги (заказ)
